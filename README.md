@@ -1,4 +1,18 @@
 # README
+In this projects user can ask related to universe.
+The landing page will have list of recent question and every question gets its own page to displaying the list of answer,
+User can ask new question and they can submit answer to existing ones 
+. Deploy on Herkou server :- https://limitless-basin-39332.herokuapp.com/
+
+
+
+
+
+
+
+
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
